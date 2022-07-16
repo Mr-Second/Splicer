@@ -1,2 +1,18 @@
-# Splicer
-Images Splicing Software
+# Splicer 图片拼接软件
+
+> Tldr: 
+> 该软件为图片拼接软件，操作步骤为：
+> + 运行Splicer.exe
+> + 点击“选择图片”按钮
+> + 选择那些需要拼接的图片
+> + 输入行数（整数）
+> + 输入列数（整数），点击回车键
+> + （可选）对视图中的图片互换位置，按住ctrl加鼠标左键分别点击两个需要交换位置的图片，点击空格进行交换
+> + （可选）调整左右边距滑条
+> + （可选）调整上下边距滑条
+> +  点击保存图片按钮
+> +  选择需要保存图片的位置
+
+## 运行截图
+![1](https://user-images.githubusercontent.com/38907693/179349149-14c3049b-7559-4f7f-bb6c-d2dea6a30a6d.png)
+![2](https://user-images.githubusercontent.com/38907693/179349277-ed778833-ca74-4f78-b77c-e905627654d2.png)
